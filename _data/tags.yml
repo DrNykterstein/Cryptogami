@@ -18,3 +18,7 @@ noticias:
   name: noticias
   description: False
   cover: False
+powershell:
+  name: powershell
+  description: False
+  cover: False
