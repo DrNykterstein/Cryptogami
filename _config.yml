@@ -14,7 +14,7 @@ description: De la consola a la calle
 cover: assets/images/blog-cover.jpg
 logo: assets/images/banner_grande.png
 logo_dark: assets/images/favicon.png
-favicon: assets/images/favicon.png
+favicon: assets/images/banner_grande.png
 production_url: https://drnykterstein.github.io/Cryptogami/
 source_url: https://github.com/DrNykterstein/Cryptogami/
 CNAME: #add cname for website to be created
