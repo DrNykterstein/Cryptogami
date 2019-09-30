@@ -1,6 +1,6 @@
-speeches:
-  name: speeches
-  description: Some of the greatest words ever spoken.
+powershell:
+  name: powershell
+  description: Entradas sobre PowerShell.
   cover: assets/images/speeches.jpg
 fiction:
   name: fiction
@@ -18,7 +18,4 @@ noticias:
   name: noticias
   description: False
   cover: False
-powershell:
-  name: powershell
-  description: False
-  cover: False
+
