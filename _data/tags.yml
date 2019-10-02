@@ -1,3 +1,7 @@
+articulos:
+  name: articulos
+  description: Entradas sobre PowerShell.
+  cover: False
 powershell:
   name: powershell
   description: Entradas sobre PowerShell.
